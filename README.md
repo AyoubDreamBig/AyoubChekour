@@ -1,39 +1,42 @@
-# Greetings! 👋
+# Hello! Welcome To My New Git Profile 👋
 
-I'm Ayoub , an avid Data Science enthusiast. Welcome to my GitHub profile, where data meets innovation!
+I'm Ayoub Chekour, a Data Analyst & Business Analyst with a passion for transforming raw data into actionable insights.
 
-## Profile Insights 📊
+## About Me 🌟
 
-- 🌱 Presently enriching my knowledge in Business-Sales and Marketing Area.
-- 👯 Eager to collaborate on stimulating Projects .
-- 💬 Feel free to engage with me on Linkedin.
-- 📫 Contact me via Telegram.
-- 😄 My pronouns: Data Hacker XD
+- 🌱 Learning new techniques to enhance my skills.
+- 👯 Open to collaborations on data-driven projects.
+- 💬 Ask me about SQL, Power BI, Tableau, Excel, or Python.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayoub-chekour-0455a029b) to discuss opportunities.
+- 😄 Pronouns: He/Him.
 
-## Skill Set & Tools 🛠️
+## Skills & Tools 🛠️
 
-Discover the tools and languages I wield:
+Check out what I work with:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubDreamBig&layout=compact)](https://github.com/AyoubDreamBig/github-readme-stats)
 
-## Ongoing Endeavors 🚀
+## Projects 🚀
 
-Here's a glimpse into my current undertakings:
+Here's a peek at my latest ventures:
 
-- [Project 1](link)
-- [Project 2](link)
-- [Project 3](link)
+1. [SQL & Power BI Project](https://github.com/AyoubDreamBig/SQL-PowerBI-Project)
+2. [Excel & Tableau Project](https://github.com/AyoubDreamBig/Excel-Tableau-Project)
+3. [SQL & Tableau Project](https://github.com/AyoubDreamBig/SQL-Tableau-Project)
+4. [SQL & Tableau Project 2](https://github.com/AyoubDreamBig/SQL-Tableau-Project-2)
+5. [Python Analysis Project](https://github.com/AyoubDreamBig/Python-Analysis-Project)
+6. [Python Analysis Project 2](https://github.com/AyoubDreamBig/Python-Analysis-Project-2)
 
-## GitHub Activity 📈
+## GitHub Activity 📊
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyoubDreamBig&show_icons=true)
 
 ## Let's Connect 🌐
 
-Find me across platforms:
+Catch me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [LinkedIn](https://www.linkedin.com/in/ayoub-chekour-0455a029b)
 - [Twitter](https://twitter.com/yourusername)
 - [Portfolio Website](https://www.yourportfolio.com)
 
-Don't hesitate to initiate a connection! 😊
+Feel free to connect anytime! 😊
